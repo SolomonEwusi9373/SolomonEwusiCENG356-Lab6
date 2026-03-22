@@ -2,7 +2,7 @@
  ============================================================================
  Name        : Lab6.c (memory.c)
  Author      : Austin Tian
- Revised by  :
+ Revised by  : Solomon Ewusi | Student ID: N01659373
  Version     :
  Copyright   : Copyright 2023
  Description : Lab 6 in C, ANSI-C Style
